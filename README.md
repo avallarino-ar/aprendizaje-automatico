@@ -1,2 +1,3 @@
-# aprendizaje_de_maquina
+# Aprendizaje automático
+Ejemplos / funcionalidades.
 
